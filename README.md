@@ -1,2 +1,2 @@
 # Solsysten
-Mikkel, Ashwin, Armand, Alvar, Ingrid
+Mikkel, Ashwin, Armand, Alvar, Ingrid, Jonas
