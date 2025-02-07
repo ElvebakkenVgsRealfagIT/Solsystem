@@ -8,8 +8,11 @@ Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles 
 
 ### Teamet
 * Produkteieren:
+  **Jonas**
 * Scrum Master:
+ **Armand**
 * Team-medlemmer:
+   **Ashwin**, **Mikkel**, **Ingrid**, **Alvar**
 
 * Interessenter
   * Investorer (læreren)
@@ -31,7 +34,11 @@ Her er det plass for et samarbeidsprosjekt i IT2. Teamet samarbeider med felles 
 #### Stikkord:
   1. Sprintplanlegging
       * Møte med interessenter
-      * Notater (fri tekst)
+      * Notater:
+        * 5 Februar:
+          * Standup på starten av dagen. Idag gikk dagen på å fullføre 3d-designet til klokken samt å bestemme seg for oppsett til arduino, vi fant ut at vi måtte bruke en "Step-servo".
+        * 7 Februar:
+           * Standup på starten av dagen. Idag gikk dagen til å sette opp step-servoen med ardurino, i tillegg til å fullføre 3d-printingen av alle deler som må på klokken. Neste uke starter monteringen av alle delene.
       * Backloggen - **produkteierens ansvar**
         * Markdown-fil
         * Som "type bruker" vil jeg kunne "utføre en gitt handling", slik at "overordnet mål"
